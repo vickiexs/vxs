@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/vxs/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/vxs/static/js/main.038a11a5.chunk.js",
-    "main.js.map": "/vxs/static/js/main.038a11a5.chunk.js.map",
-    "runtime-main.js": "/vxs/static/js/runtime-main.0f99e77f.js",
-    "runtime-main.js.map": "/vxs/static/js/runtime-main.0f99e77f.js.map",
-    "static/js/2.b2c2615a.chunk.js": "/vxs/static/js/2.b2c2615a.chunk.js",
-    "static/js/2.b2c2615a.chunk.js.map": "/vxs/static/js/2.b2c2615a.chunk.js.map",
-    "static/js/3.9513071b.chunk.js": "/vxs/static/js/3.9513071b.chunk.js",
-    "static/js/3.9513071b.chunk.js.map": "/vxs/static/js/3.9513071b.chunk.js.map",
+    "main.css": "/vxs/static/css/main.8115dd07.chunk.css",
+    "main.js": "/vxs/static/js/main.1894f51a.chunk.js",
+    "main.js.map": "/vxs/static/js/main.1894f51a.chunk.js.map",
+    "runtime-main.js": "/vxs/static/js/runtime-main.ceeb7f34.js",
+    "runtime-main.js.map": "/vxs/static/js/runtime-main.ceeb7f34.js.map",
+    "static/js/2.bbd12f54.chunk.js": "/vxs/static/js/2.bbd12f54.chunk.js",
+    "static/js/2.bbd12f54.chunk.js.map": "/vxs/static/js/2.bbd12f54.chunk.js.map",
+    "static/js/3.abad6fec.chunk.js": "/vxs/static/js/3.abad6fec.chunk.js",
+    "static/js/3.abad6fec.chunk.js.map": "/vxs/static/js/3.abad6fec.chunk.js.map",
     "index.html": "/vxs/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/vxs/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b2c2615a.chunk.js.LICENSE.txt": "/vxs/static/js/2.b2c2615a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/vxs/static/media/logo.6ce24c58.svg"
+    "static/css/main.8115dd07.chunk.css.map": "/vxs/static/css/main.8115dd07.chunk.css.map",
+    "static/js/2.bbd12f54.chunk.js.LICENSE.txt": "/vxs/static/js/2.bbd12f54.chunk.js.LICENSE.txt",
+    "static/media/about_img.png": "/vxs/static/media/about_img.b5275fa0.png",
+    "static/media/blender.png": "/vxs/static/media/blender.31937a6a.png",
+    "static/media/climbing.jpg": "/vxs/static/media/climbing.ba00d997.jpg",
+    "static/media/ffa.jpg": "/vxs/static/media/ffa.940bdbac.jpg",
+    "static/media/hero_img.jpg": "/vxs/static/media/hero_img.3bd4a507.jpg",
+    "static/media/logo_white.svg": "/vxs/static/media/logo_white.45cac43c.svg",
+    "static/media/mikan.jpg": "/vxs/static/media/mikan.a5907896.jpg",
+    "static/media/posters.jpg": "/vxs/static/media/posters.a01af5a5.jpg",
+    "static/media/travel.jpg": "/vxs/static/media/travel.60b45e67.jpg",
+    "static/media/wucc_logos.jpg": "/vxs/static/media/wucc_logos.79caea1c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f99e77f.js",
-    "static/js/2.b2c2615a.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.038a11a5.chunk.js"
+    "static/js/runtime-main.ceeb7f34.js",
+    "static/js/2.bbd12f54.chunk.js",
+    "static/css/main.8115dd07.chunk.css",
+    "static/js/main.1894f51a.chunk.js"
   ]
 }
